@@ -1,0 +1,578 @@
+{
+  "main": {
+    "id": "802640b7d754e4cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e9a06f5af2f0bc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d27ec80316bb11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программирование"
+            }
+          },
+          {
+            "id": "6e716346e1707a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы информационной безопасности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы информационной безопасности"
+            }
+          },
+          {
+            "id": "6485338acc891c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Базовые элементы языка (Синтаксические штучки).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые элементы языка (Синтаксические штучки)"
+            }
+          },
+          {
+            "id": "deec4b7493479e9b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cd8c5d9a47fe784f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Народы России.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Народы России"
+            }
+          },
+          {
+            "id": "c801fcefb58629bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Города россии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Города россии"
+            }
+          },
+          {
+            "id": "97672c2477b729a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Города россии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Города россии"
+            }
+          },
+          {
+            "id": "6f0489cac056942d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОИБ-Лекция 2, Информационная безопасность и ее составляющие.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОИБ-Лекция 2, Информационная безопасность и ее составляющие"
+            }
+          },
+          {
+            "id": "5cf1894f37817aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОИБ-Лекция 2, Информационная безопасность и ее составляющие.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОИБ-Лекция 2, Информационная безопасность и ее составляющие"
+            }
+          },
+          {
+            "id": "11f44cc2f8fc119b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОИБ-Лекция 3, Концептуальная модель Информационной безопасности РФ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОИБ-Лекция 3, Концептуальная модель Информационной безопасности РФ"
+            }
+          },
+          {
+            "id": "c3c3a983c65cb7a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программирование"
+            }
+          },
+          {
+            "id": "46a3ab612448e3d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программирование"
+            }
+          },
+          {
+            "id": "8f16f56891dfbc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Фундаментальные концепции (Философия C++).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Фундаментальные концепции (Философия C++)"
+            }
+          },
+          {
+            "id": "bef2916f8ad39f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программирование"
+            }
+          },
+          {
+            "id": "ab927645c303fa51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Процесс построения программы (Важнейший фундамент).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Процесс построения программы (Важнейший фундамент)"
+            }
+          },
+          {
+            "id": "97216a0b48d25d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Базовые элементы языка (Синтаксические штучки).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые элементы языка (Синтаксические штучки)"
+            }
+          },
+          {
+            "id": "ed1feb8d3749ed1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Виды ошибок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виды ошибок"
+            }
+          },
+          {
+            "id": "11dcaba04452845a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программирование"
+            }
+          },
+          {
+            "id": "e8fb39807fa20f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Roadmap по С++/Уровень 1 (Фундамент языка).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Уровень 1 (Фундамент языка)"
+            }
+          },
+          {
+            "id": "7fb3ac2eece70781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Roadmap по С++/Roadmap (Путеводитель по с++).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap (Путеводитель по с++)"
+            }
+          },
+          {
+            "id": "c65704950ed21396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Roadmap по С++/Уровень 2 Средний (Сердце языка — здесь начинается магия).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Уровень 2 Средний (Сердце языка — здесь начинается магия)"
+            }
+          },
+          {
+            "id": "f1c782cb4674fe1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Roadmap по С++/Roadmap (Путеводитель по с++).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap (Путеводитель по с++)"
+            }
+          },
+          {
+            "id": "4602db6f4aca3276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Базовые элементы языка (Синтаксические штучки).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые элементы языка (Синтаксические штучки)"
+            }
+          },
+          {
+            "id": "cd9ca0c8d7a2c7ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Виды ошибок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виды ошибок"
+            }
+          },
+          {
+            "id": "4be93ef3d966e95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Базовые элементы языка (Синтаксические штучки).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые элементы языка (Синтаксические штучки)"
+            }
+          },
+          {
+            "id": "a3d36d9c22aa7b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Программирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программирование"
+            }
+          },
+          {
+            "id": "b6ddf2c4e5113a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/Roadmap по С++/Roadmap (Путеводитель по с++).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap (Путеводитель по с++)"
+            }
+          },
+          {
+            "id": "3a41187d26a35ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/C++/C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbee748eba496891",
+    "type": "split",
+    "children": [
+      {
+        "id": "403efe675e5d450d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72211604ba1a31dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5fdf12dbd071d1f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40f5f38598fc4361",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d54557f3d9e7115b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab45f7735cadb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f846f3a108d36af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Программирование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Программирование"
+            }
+          },
+          {
+            "id": "094eaff81a054bbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Программирование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Программирование"
+            }
+          },
+          {
+            "id": "0090c6b5e2497eb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c94b87ca239bb5b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Программирование.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Программирование"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "97672c2477b729a1",
+  "lastOpenFiles": [
+    "Народы России.md",
+    "Города россии.md",
+    "Untitled.md",
+    "Основы инфобеза/Доктрина информационной безопасности РФ (2016) — Ключевые тезисы.md",
+    "Программирование/C++/Фундаментальные концепции (Философия C++).md",
+    "Программирование/Программирование.md",
+    "Программирование/C++/Базовые элементы языка (Синтаксические штучки).md",
+    "Программирование/C++/Виды ошибок.md",
+    "Программирование/C++/C++.md",
+    "Программирование/C++/Типы данных.md",
+    "Теория.md",
+    "Untitled",
+    "Основы инфобеза/Основы информационной безопасности.md",
+    "Основы инфобеза/ОИБ-Лекция 2, Информационная безопасность и ее составляющие.md",
+    "Основы инфобеза/ОИБ-Лекция 1, Информация в обществе.md",
+    "Основы инфобеза/ОИБ-Лекция 4, Защищаемая информация.md",
+    "Программирование/C++/Roadmap по С++/Roadmap (Путеводитель по с++).md",
+    "Программирование/C++/Процесс построения программы (Важнейший фундамент).md",
+    "Программирование/C++/Roadmap по С++/Уровень 1 (Фундамент языка).md",
+    "Программирование/C++",
+    "Программирование/C++/Roadmap по С++",
+    "Программирование/C++/Roadmap по С++/Уровень 4 Продвинутый.md",
+    "Программирование/C++/Roadmap по С++/Уровень 3 (ООП, самый смак).md",
+    "Программирование/C++/Roadmap по С++/Уровень 2 Средний (Сердце языка — здесь начинается магия).md",
+    "Программирование/Итоговый портрет амбассадора cpp.md",
+    "Программирование",
+    "Основы инфобеза",
+    "Основы инфобеза/ОИБ-Лекция 3, Концептуальная модель Информационной безопасности РФ.md"
+  ]
+}
